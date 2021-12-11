@@ -1,0 +1,35 @@
+     last
+0    Wald
+1   Quirk
+2  Deitel
+3  Deitel
+4  Deitel
+         isbn                             title  edition copyright
+0  0134289366         Android 6 for Programmers        3      2016
+1  0134444302            Android How to Program        3      2017
+2  0133976890                  C How to Program        8      2016
+3  0134448235                C++ How to Program       10      2017
+4  0132151006     Internet & WWW How to Program        5      2012
+5  0135404673     Intro to Python for CS and DS        1      2020
+6  0134743350               Java How to Program       11      2018
+7  0133406954  Visual Basic 2012 How to Program        6      2014
+8  0134601548          Visual C# How to Program        6      2017
+9  0136151574         Visual C++ How to Program        2      2008
+                              title copyright        isbn
+0         Android 6 for Programmers      2016  0134289366
+1            Android How to Program      2017  0134444302
+2                  C How to Program      2016  0133976890
+3                C++ How to Program      2017  0134448235
+4     Internet & WWW How to Program      2012  0132151006
+5     Intro to Python for CS and DS      2020  0135404673
+6               Java How to Program      2018  0134743350
+7  Visual Basic 2012 How to Program      2014  0133406954
+8          Visual C# How to Program      2017  0134601548
+9         Visual C++ How to Program      2008  0136151574
+   id      first    last
+0   1       Paul  Deitel
+1   2     Harvey  Deitel
+2   3      Abbey  Deitel
+3   4        Dan   Quirk
+4   5  Alexander    Wald
+5   6       Sage  Cooper
